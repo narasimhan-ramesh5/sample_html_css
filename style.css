@@ -3,8 +3,8 @@ h1{
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     color:beige;
     text-align:center;
-    border-top-width:thick;
-    border-bottom-width:thick;
+    padding-top:10px;
+    padding-bottom:10px;
     margin-top:0;
 }
 
@@ -14,7 +14,7 @@ body{
 
 .column {
     float: left;
-    width: 33%;
+    width: 33.33%;
 }
 
 /* Clear floats after the columns */
